@@ -2,9 +2,6 @@
 #define ZZZZZZZZZ__CCTYPE_H
 
 
-namespace std54321
-{
-
     int isalnum( int ch );
     int isalpha( int ch );
     int isblank( int ch );
@@ -166,7 +163,7 @@ namespace std54321
 
 
 
-}
+
 
 
 
